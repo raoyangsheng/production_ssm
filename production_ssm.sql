@@ -12,6 +12,9 @@ File Encoding         : 65001
 
 Date: 2017-04-14 20:58:04
 */
+CREATE DATABASE `production_ssm` CHARACTER SET utf8 COLLATE utf8_general_ci;
+
+USE `production_ssm`;
 
 SET FOREIGN_KEY_CHECKS=0;
 
